@@ -34,9 +34,11 @@ Model training and deployment will be implemented in the next phase.
 - Mobile alerts and access control integration## Architecture Diagram
 Refer to docs/architecture.png for the system architecture.
 
+## Architecture Diagram
+Refer to docs/architecture.png for the system architecture.
+
 ## Code Status
 Current code represents a prototype inference pipeline.
 Model training and optimization will be completed in the next phase.
 
 
-- 
