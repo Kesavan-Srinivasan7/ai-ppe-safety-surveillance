@@ -31,4 +31,12 @@ Model training and deployment will be implemented in the next phase.
 ## Future Enhancements
 - Unsafe action detection
 - PPE compliance confidence scoring
-- Mobile alerts and access control integration
+- Mobile alerts and access control integration## Architecture Diagram
+Refer to docs/architecture.png for the system architecture.
+
+## Code Status
+Current code represents a prototype inference pipeline.
+Model training and optimization will be completed in the next phase.
+
+
+- 
